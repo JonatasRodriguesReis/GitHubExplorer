@@ -1,6 +1,10 @@
 # GitHubExplorer
 This a personal project with ReactJS, TypeScript to consume an API GitHub https://api.github.com/
 
+![Alt text](./src/assets/screen1.png?raw=true "Screen 1 to list the wanted repositories")
+![Alt text](./src/assets/screen2.png?raw=true "Screen 2 to view a repository")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
